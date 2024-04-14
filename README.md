@@ -1,2 +1,2 @@
 # Apna-E-Shop
-Created an online watch E-Shop using HTML and basics of CSS
+Created a E-Shop for watch using HTML and basics of CSS
